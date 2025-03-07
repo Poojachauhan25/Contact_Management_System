@@ -1,0 +1,57 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+h1 {
+    color: #e74c3c;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #f39c12;
+    font-size: 1.2rem;
+    margin-bottom: 40px;
+}
+
+button {
+    font-weight: bold;
+}
+
+a {
+    font-weight: bold;
+}
+
+.list-group-item {
+    background-color: #f9e4e4;
+    border: 2px dashed #f39c12;
+    font-size: 1.2rem;
+}
+
+.list-group-item .btn {
+    font-size: 1rem;
+}
+
+.btn-warning {
+    background-color: #ff9f00;
+    color: #fff;
+}
+
+.btn-info {
+    background-color: #17a2b8;
+    color: white;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: white;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: white;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
